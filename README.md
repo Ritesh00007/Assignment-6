@@ -24,4 +24,4 @@ Learning Journey
 Building this project allowed me to deepen my understanding of JavaScript, particularly in DOM manipulation and event handling. Implementing the logic to analyze the text introduced me to more complex aspects of JavaScript like array manipulations and object property iterations. The challenge of dynamically creating elements and appending them to the DOM was particularly enriching and improved my skills in crafting interactive web pages.
 
 Setup and Deployment
-The application is hosted using GitHub Pages and can be accessed at  . 
+The application is hosted using GitHub Pages and can be accessed at https://ritesh00007.github.io/Assignment-6/. 
